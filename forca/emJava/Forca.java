@@ -1,4 +1,4 @@
-package emJava;
+package forca.emJava;
 
 public class Forca {
     public static void main(String[] args) {
@@ -14,3 +14,7 @@ public class Forca {
         System.out.println("Forca = " + forca + "N");
     }
 }
+
+
+
+    
