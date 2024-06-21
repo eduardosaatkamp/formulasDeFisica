@@ -7,6 +7,9 @@ public class ForcaComUsoDeFuncaoTest {
 
     @Test
     public void testCalcularForca() {
+        // Fórmula da força: F = m * a
+
+        // Variáveis
         double massa = 10; // Massa em kg
         double aceleracao = 5; // Aceleração em m/s^2
         double expectedForca = 50; // Força esperada em N
